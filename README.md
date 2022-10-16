@@ -1,2 +1,2 @@
-# Counter---React
+# Counter-React
 Counter with react
