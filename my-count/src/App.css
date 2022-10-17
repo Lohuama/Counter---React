@@ -1,0 +1,14 @@
+.header{
+  background-color: pink;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.menu{
+  display: flex;
+  list-style: none;
+}
+.menu li{
+  margin: 10px;
+}
